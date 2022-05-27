@@ -2,8 +2,7 @@
 # 
 
 # profile
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=현우%20CodeGram&fontSize=70)
-![header](https://capsule-render.vercel.app/api?type=cylinder)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=현우%20CodeGram&fontSize=70)
 
                                     안녕하세요 저는 세명대학교에 재학중인 3학년 정보통신학부 장현우 입니다.
                           제가 지금 배우고 있는 언어는 java와 c++이지만 앞으로는 자바스크립트, 파이썬 등을 배울 생각입니다.
